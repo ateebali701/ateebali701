@@ -1,10 +1,11 @@
 <h1 align="center">Muhammad Ateeb Ali</h1>
-<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine</h3>
+<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine · Python</h3>
 
 <p align="center">
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
   <a href="PASTE-YOUR-LINKEDIN-LINK-HERE">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">📄 Full CV</a>
 </p>
 
 ---
@@ -15,6 +16,49 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 
 **🎓 Education:** B.E. Civil Engineering, National University of Sciences and Technology (NUST), Islamabad — 2023 to Present | CGPA: 3.48/4.00 (until 7th semester)
 **Relevant Coursework:** River Engineering · Engineering Hydrology · Fluid Mechanics I & II · Irrigation Engineering · Soil Mechanics I & II · Engineering Geology · Structural Analysis I, II & III · Engineering Materials
+
+---
+
+## 🔬 Research Interests
+
+- Hydrological Modeling
+- Surface Runoff Analysis
+- Watershed Modeling
+- GIS and Spatial Analysis
+- Remote Sensing
+- Land Use / Land Cover Change
+- Environmental Modeling
+- Geospatial Data Science
+- Machine Learning for Earth Observation
+- Climate and Water Resources Analysis
+
+---
+
+## 🌊 Featured Research Project
+
+### Impact of Land Use/Land Cover Dynamics on Surface Runoff and Hydrological Response of the Soan River Watershed
+
+**Final Year Design Project (2026 – Present)** · *Advisor: Lt Colonel Ali Khan, National University of Sciences and Technology*
+
+This research examines how historical and predicted future land-use/land-cover changes in the Soan River Watershed affect surface runoff and overall hydrological response.
+
+**Research workflow:**
+Watershed delineation → Satellite imagery acquisition → Landsat preprocessing → Supervised LULC classification (Random Forest) → Accuracy assessment → Change detection → Area/transition statistics → Driving-factor preparation → Future LULC prediction (Python + ML + CA-Markov) → Hydrological modeling → Surface runoff assessment
+
+**LULC study years:** 2000 · 2008 · 2016 · 2024
+**Future prediction years:** 2032 · 2040 · 2048
+
+| LULC Class | Code |
+|---|---:|
+| Water | 0 |
+| Built-up | 1 |
+| Vegetation | 2 |
+| Bare Land | 3 |
+
+**Driving factors:** Elevation · Slope · Distance from Roads · Distance from Water · Distance from Built-up Areas
+**Tools & technologies:** Google Earth Engine · QGIS · Landsat 5/8/9 · Random Forest · MOLUSCE · ANN · Cellular Automata · CA-Markov
+
+📎 **Proof of work:** [View Project Files / Report on Google Drive](PASTE-DRIVE-LINK-HERE)
 
 ---
 
