@@ -4,7 +4,8 @@
 <p align="center">
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
-  <a href="#">🔗 LinkedIn</a>
+  <a href="PASTE-YOUR-LINKEDIN-LINK-HERE">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">📄 Full CV</a>
 </p>
 
 ---
@@ -27,11 +28,15 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 - Predicted future LULC for 2032, 2040, and 2048 using Random Forest and CA-Markov models coded in Python.
 - Comparing present and predicted future runoff to analyze peak flow, surface runoff, and hydrological response through hydrological modeling.
 
+📎 **Proof of work:** [View Project Files / Report on Google Drive](PASTE-DRIVE-LINK-HERE)
+
 ### Research Assistant — Senior's Final Year Design Project (Flood Modeling) *(Fall 2025)*
 *National University of Sciences and Technology, Risalpur, Pakistan*
 - Assisted in catchment delineation using ArcGIS to define the watershed boundary for hydrological analysis.
 - Supported flood forecasting simulations in HEC-HMS for the study watershed.
 - Contributed to flood inundation mapping in HEC-RAS to identify flood-prone areas.
+
+📎 **Proof of work:** [View Supporting Files on Google Drive](PASTE-DRIVE-LINK-HERE)
 
 ### Undergraduate Researcher — Hydrograph Analysis and Infiltration Modeling Using Python *(Fall 2025, Self-directed)*
 *National University of Sciences and Technology*
@@ -39,25 +44,27 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 - Coded S-Curve and superposition methods to convert and combine unit hydrographs in Python.
 - Generated total surface runoff hydrographs by convolving unit hydrographs with rainfall excess.
 
+📎 **Proof of work:** [View Python Notebook / Report on Google Drive](PASTE-DRIVE-LINK-HERE)
+
 ---
 
 ## 🎓 Academic Projects
 
-| Project | Course | Semester |
-|---|---|---|
-| Streamflow Measurement, Cross-Sectional Discharge Analysis, and Channel Control Assessment for Flood Risk Management – Soan River | River Engineering (CE-462) | Spring 2026 |
-| Watershed Drainage Pattern and River Morphology Analysis Using Strahler's Bifurcation Method for Regional Flood Risk Assessment | River Engineering (CE-462) | Spring 2026 |
-| Irrigation Scheduling and Gross Irrigation Requirement (GIR) Analysis for Crop Water Requirement Comparison Using CLIMWAT/CROPWAT – Talagang, Punjab | Irrigation Engineering (CE-463) | Spring 2026 |
-| Statistical and Hydrological Analysis of 116-Year Rainfall Data for Seasonality and Trend Assessment in Pakistan | Engineering Hydrology (CE-358) | Fall 2025 |
-| Multi-Sub-Basin Hydrological Modeling and Calibration Using HEC-HMS for Watershed Flow Response Assessment | Engineering Hydrology (CE-358) | Fall 2025 |
-| Single-Event Rainfall-Runoff Simulation and Hydrograph Generation Using HEC-HMS (SCS Curve Number Method) | Engineering Hydrology (CE-358) | Fall 2025 |
-| MATLAB-Based Symbolic Computation of Differential Equations, Integrals, Derivatives, and Limits | MATH-355 | Fall 2025 |
-| Python-Based Data Retrieval Program for Location and Reservoir Area of Major Pakistani Dams | Summer Python Course | Summer 2025 |
-| Open Channel Hydraulic Analysis of Flow Regimes and Manning's Roughness Estimation for Trapezoidal and Compound Channels | Fluid Mechanics-II (CE-252) | Spring 2025 |
-| Topographic Mapping, Traversing, and Contouring for Road Alignment Design Using Total Station and GPS — *Syndicate Leader* | Engineering Surveying (CE-777) | Spring 2025 |
-| Inventory, Sales, and Billing Management Desktop Application Development Using C# | Fundamentals of Programming (CE-777) | Spring 2024 |
+| Project | Course | Semester | Proof / Report |
+|---|---|---|---|
+| Streamflow Measurement, Cross-Sectional Discharge Analysis, and Channel Control Assessment for Flood Risk Management – Soan River | River Engineering (CE-462) | Spring 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| Watershed Drainage Pattern and River Morphology Analysis Using Strahler's Bifurcation Method for Regional Flood Risk Assessment | River Engineering (CE-462) | Spring 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| Irrigation Scheduling and Gross Irrigation Requirement (GIR) Analysis for Crop Water Requirement Comparison Using CLIMWAT/CROPWAT – Talagang, Punjab | Irrigation Engineering (CE-463) | Spring 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| Statistical and Hydrological Analysis of 116-Year Rainfall Data for Seasonality and Trend Assessment in Pakistan | Engineering Hydrology (CE-358) | Fall 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Multi-Sub-Basin Hydrological Modeling and Calibration Using HEC-HMS for Watershed Flow Response Assessment | Engineering Hydrology (CE-358) | Fall 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Single-Event Rainfall-Runoff Simulation and Hydrograph Generation Using HEC-HMS (SCS Curve Number Method) | Engineering Hydrology (CE-358) | Fall 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| MATLAB-Based Symbolic Computation of Differential Equations, Integrals, Derivatives, and Limits | MATH-355 | Fall 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Python-Based Data Retrieval Program for Location and Reservoir Area of Major Pakistani Dams | Summer Python Course | Summer 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Open Channel Hydraulic Analysis of Flow Regimes and Manning's Roughness Estimation for Trapezoidal and Compound Channels | Fluid Mechanics-II (CE-252) | Spring 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Topographic Mapping, Traversing, and Contouring for Road Alignment Design Using Total Station and GPS — *Syndicate Leader* | Engineering Surveying (CE-777) | Spring 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Inventory, Sales, and Billing Management Desktop Application Development Using C# | Fundamentals of Programming (CE-777) | Spring 2024 | [View](PASTE-DRIVE-LINK-HERE) |
 
-> 🔗 Add a link to each project's repository/report as you upload them, e.g. `[Repo](https://github.com/yourusername/project-repo)`
+> 💡 Tip: Upload each project's report/code as a PDF or folder on Google Drive, set sharing to "Anyone with the link can view," then paste that link in the table above.
 
 ---
 
@@ -71,6 +78,8 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 - Observed dam pit foundation treatment and dental concrete placement at 898m founding level.
 - Assisted in laboratory quality control testing including grout flow, compressive strength, and pull-out tests.
 
+📎 **Proof of work:** [View Internship Certificate on Google Drive](PASTE-DRIVE-LINK-HERE)
+
 ### Internee Engineer — Dhadhocha Dam Project *(Jun 2025 – Aug 2025)*
 *Frontier Works Organization (FWO), Pakistan*
 - Studied a 123 ft zoned earth-fill dam with core, filter, and shell zones for seepage control.
@@ -79,17 +88,19 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 - Used Total Station and GNSS/GPS for topographic mapping and catchment delineation.
 - Learned dam safety monitoring: seepage, pore pressure, settlement, and embankment condition.
 
+📎 **Proof of work:** [View Internship Certificate on Google Drive](PASTE-DRIVE-LINK-HERE)
+
 ---
 
 ## 🤝 Leadership & Volunteer Experience
 
-- **Course Prefect**, CED-101, Military College of Engineering, NUST *(Sep 2025 – May 2026)* — Acted as the main point of contact between course mates and faculty, relaying updates and resolving exam schedules and coursework deadlines.
-- **Academic Prefect**, CED-101 (PCs), Military College of Engineering, NUST *(2026)*
-- **Secretary**, ASCE Bridge Design Competition 2025, MCE, NUST *(Feb 2025)* — Designed and tested a structural bridge model, applying core structural analysis principles under competition constraints.
-- **Organizer and Volunteer**, FATIMID Foundation Blood Bank & Haemotological Services *(Feb 2025)* — Organized and registered blood donors, assisted during the donation process.
-- **Academic Distinction Holder** — Ranked among top 3 students in class, MCE, NUST *(Spring 2025)*
-- **Secretary**, Research and Innovation Society *(Spring 2024)*
-- **Class Representative**, Civil Engineering Batch, MCE, NUST *(Fall 2023 – Spring 2024)*
+- **Course Prefect**, CED-101, Military College of Engineering, NUST *(Sep 2025 – May 2026)* — Acted as the main point of contact between course mates and faculty, relaying updates and resolving exam schedules and coursework deadlines. 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Academic Prefect**, CED-101 (PCs), Military College of Engineering, NUST *(2026)* 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Secretary**, ASCE Bridge Design Competition 2025, MCE, NUST *(Feb 2025)* — Designed and tested a structural bridge model, applying core structural analysis principles under competition constraints. 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Organizer and Volunteer**, FATIMID Foundation Blood Bank & Haemotological Services *(Feb 2025)* — Organized and registered blood donors, assisted during the donation process. 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Academic Distinction Holder** — Ranked among top 3 students in class, MCE, NUST *(Spring 2025)* 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Secretary**, Research and Innovation Society *(Spring 2024)* 📎 [Proof](PASTE-DRIVE-LINK-HERE)
+- **Class Representative**, Civil Engineering Batch, MCE, NUST *(Fall 2023 – Spring 2024)* 📎 [Proof](PASTE-DRIVE-LINK-HERE)
 
 ---
 
@@ -104,23 +115,30 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 
 ## 📜 Certifications
 
-- [Remote Sensing Image Acquisition, Analysis and Applications](PASTE_YOUR_CERTIFICATE_LINK_HERE) — UNSW Sydney & IEEE Geoscience and Remote Sensing Society (Coursera), *Sep 2026*
-- [Introduction to GIS Mapping](PASTE_YOUR_CERTIFICATE_LINK_HERE) — University of Toronto (Coursera), *Aug 2026*
-- [AutoCAD](PASTE_YOUR_CERTIFICATE_LINK_HERE) — Digiskills.pk (DSTP3.0-Batch-02), *Jul 2026*
-- [Supervised Machine Learning: Regression and Classification](PASTE_YOUR_CERTIFICATE_LINK_HERE) — DeepLearning.AI / Stanford (Coursera), *Aug 2025*
-- [Python Programming](PASTE_YOUR_CERTIFICATE_LINK_HERE) — NUST SEECS (On Campus), *Jul 2025*
-- **Oracle Primavera P6** — packt (Coursera):
-  - [Planning and Control with Oracle Primavera PPM Professional](PASTE_YOUR_CERTIFICATE_LINK_HERE), *Jul 2025*
-  - [Advanced Scheduling and Project Optimization in Primavera P6](PASTE_YOUR_CERTIFICATE_LINK_HERE), *Jun 2025*
-  - [Oracle Primavera P6: Project Setup and Basic Management](PASTE_YOUR_CERTIFICATE_LINK_HERE), *May 2025*
-- [BIM Fundamentals for Engineers](PASTE_YOUR_CERTIFICATE_LINK_HERE) — National Taiwan University (Coursera), *May 2025*
-- [AutoCAD 2023 Masterclass – Produce Amazing Site Plans](PASTE_YOUR_CERTIFICATE_LINK_HERE) — packt (Coursera), *May 2025*
+| Certification | Issuing Organization | Date | Certificate |
+|---|---|---|---|
+| Remote Sensing Image Acquisition, Analysis and Applications | UNSW Sydney & IEEE Geoscience and Remote Sensing Society (Coursera) | Sep 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| Introduction to GIS Mapping | University of Toronto (Coursera) | Aug 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| AutoCAD | Digiskills.pk (DSTP3.0-Batch-02) | Jul 2026 | [View](PASTE-DRIVE-LINK-HERE) |
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Stanford (Coursera) | Aug 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Python Programming | NUST SEECS (On Campus) | Jul 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Planning and Control with Oracle Primavera PPM Professional | packt (Coursera) | Jul 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Advanced Scheduling and Project Optimization in Primavera P6 | packt (Coursera) | Jun 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| Oracle Primavera P6: Project Setup and Basic Management | packt (Coursera) | May 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| BIM Fundamentals for Engineers | National Taiwan University (Coursera) | May 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+| AutoCAD 2023 Masterclass – Produce Amazing Site Plans | packt (Coursera) | May 2025 | [View](PASTE-DRIVE-LINK-HERE) |
+
+> 💡 Tip: You can also upload all certificates into one Google Drive folder and link that single folder here instead of one-by-one.
 
 ---
 
 ## 💬 Recommendations / Reference Letters
 
-> Reference letters available upon request.
+Add your professors' recommendation letters here once ready — name, position, and a link to the scanned letter on Google Drive.
+
+- **[Professor Name]** — [Position, Department, NUST] — 📎 [View Letter](PASTE-DRIVE-LINK-HERE)
+- **[Professor Name]** — [Position, Department, NUST] — 📎 [View Letter](PASTE-DRIVE-LINK-HERE)
+- **[Professor Name]** — [Position, Department, NUST] — 📎 [View Letter](PASTE-DRIVE-LINK-HERE)
 
 ---
 
