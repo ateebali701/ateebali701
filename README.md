@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ateeb Ali</h1>
+<h1 align="center">Muhammad Ateeb Ali</h1>
 <h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine</h3>
 
 <p align="center">
