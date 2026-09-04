@@ -5,7 +5,6 @@
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
   <a href="PASTE-YOUR-LINKEDIN-LINK-HERE">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">
 </p>
 
 ---
