@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ateeb Ali</h1>
-<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine</h3>
+<h1 align="center">Muhammad Ateeb Ali</h1>
+<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine · Python</h3>
 
 <p align="center">
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
   <a href="PASTE-YOUR-LINKEDIN-LINK-HERE">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/ateebali701">💻 GitHub</a> &nbsp;|&nbsp;
   <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">📄 Full CV</a>
 </p>
 
@@ -200,7 +199,6 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 📧 **Email:** mateebali.be101mce@student.nust.edu.pk
 📱 **Phone:** +92 334 877 5983
 💼 **LinkedIn:** [PASTE-YOUR-LINKEDIN-LINK-HERE](PASTE-YOUR-LINKEDIN-LINK-HERE)
-💻 **GitHub:** [github.com/ateebali701](https://github.com/ateebali701)
 📄 **CV:** [View / Download CV](PASTE-CV-LINK-HERE)
 
 ---
