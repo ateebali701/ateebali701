@@ -5,6 +5,7 @@
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
   <a href="PASTE-YOUR-LINKEDIN-LINK-HERE">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/ateebali701">💻 GitHub</a> &nbsp;|&nbsp;
   <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">📄 Full CV</a>
 </p>
 
@@ -40,17 +41,35 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 
 **Final Year Design Project (2026 – Present)** · *Advisor: Lt Colonel Ali Khan, National University of Sciences and Technology*
 
-This research examines how historical and predicted future land-use/land-cover changes in the Rawalpindi-Islamabad watershed affect surface runoff and overall hydrological response.
+This research examines how historical and predicted future land-use/land-cover (LULC) changes in the Soan River / Rawalpindi-Islamabad watershed affect surface runoff and overall hydrological response, combining satellite-based classification with machine learning-based future prediction and hydrological modeling.
 
-**Research workflow:**
-Watershed delineation → Satellite imagery acquisition → Landsat preprocessing → Supervised LULC classification (Waterbody, Built-up, Vegetation, Barren land) → Accuracy assessment → Change detection → Future LULC prediction using machine learning-based transition modeling → Hydrological modeling → Surface runoff and peak flow comparison
+**LULC Classification**
+- Watershed boundary delineated for the full study area.
+- Supervised classification performed in Google Earth Engine across seven time steps at a 4-year interval: **2000, 2004, 2008, 2012, 2016, 2020, 2024**, using Landsat 5 (earlier years) and Landsat 8/9 (recent years), all imagery from the September–November window for seasonal consistency.
+- Four LULC classes: **Water (0), Built-up (1), Vegetation (2), Barren Land (3)**, symbolized with a fixed color scheme for consistent map layouts across all years.
+- Change detection performed year-on-year (2000→2004→2008→...→2024) directly in Google Earth Engine for workflow consistency.
+- Map layouts generated with legend, scale bar, north arrow, and coordinate-grid tick marks for each classified year.
 
-**LULC study years:** 2000 · 2008 · 2016 · 2024
-**Future prediction years:** 2032 · 2040 · 2048
+**Future LULC Prediction**
+- Future LULC predicted for **2032, 2040, 2048, 2056, and 2064** using a Random Forest + CA-Markov modeling approach, coded in Python (Google Colab), projected forward via repeated Markov-matrix transition steps from a 2020→2024 base transition matrix.
+- Model validated with two back-testing checks: predicting 2020 from the 2012→2016 transition, and predicting 2024 from the 2016→2020 transition, each compared against the actual classified map for that year.
+- Environmental driving factors used: elevation, slope, and distance from roads, water bodies, and built-up areas — the distance-based factors were recomputed using Earth Engine's `fastDistanceTransform()` after an initial `cumulativeCost()`-based approach produced a striping artifact in the output.
+- Prediction pipeline is also being cross-checked with an equivalent Random Forest + Markov + Cellular Automata implementation directly in Google Earth Engine (JavaScript) for consistency.
 
-**Tools & technologies:** Google Earth Engine · Remote Sensing · Machine Learning-based Transition Modeling · Hydrological Modeling
+**Hydrological Modeling**
+- Present-day and predicted future LULC scenarios compared to analyze changes in peak flow, surface runoff, and overall hydrological response of the watershed.
 
 📎 **Proof of work:** [View Full Project Files / Report](PASTE-ONE-DRIVE-LINK-HERE)
+
+---
+
+## 📄 Publications & Research Manuscripts
+
+### Land Use/Land Cover Change and Watershed Hydrology: A Systematic Review of Remote Sensing, GIS, and Artificial Intelligence Approaches with Implications for Hydrological Risks to Dams
+**Status:** Manuscript in Preparation
+A systematic literature review (2013–2026, global scope) synthesizing how remote sensing, GIS, and AI have been applied to LULC change, watershed hydrology, and hydrological risk to dams, structured to support ongoing research applications in water resources engineering.
+
+📎 **Proof of work:** [View Manuscript / Literature Matrix](PASTE-ONE-DRIVE-LINK-HERE)
 
 ---
 
@@ -66,7 +85,7 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 *National University of Sciences and Technology*
 - Modeled Horton's infiltration curve in Python to estimate infiltration rate and cumulative depth.
 - Coded S-Curve and superposition methods to convert and combine unit hydrographs in Python.
-- Generated total surface runoff hydrographs by convolving unit hydrographs with rainfall excess.
+- Generated total surface runoff hydrographs by convolving unit hydrographs with rainfall excess, using four Python modules (Horton's Infiltration, Surface Runoff Hydrograph via convolution, S-Curve Method, Superposition Method) built and run in Google Colab, with data drawn from own Engineering Hydrology coursework.
 
 📎 **Proof of work:** [View Supporting Files / Notebooks](PASTE-ONE-DRIVE-LINK-HERE)
 
@@ -168,9 +187,9 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 
 ## 💬 Recommendations / Reference Letters
 
-- **[Professor Name]** — [Position, Department, NUST]
-- **[Professor Name]** — [Position, Department, NUST]
-- **[Professor Name]** — [Position, Department, NUST]
+- **Lt Col Mohammad Ali Khan** — FYDP Supervisor, National University of Sciences and Technology
+- **Dr. Mohammad Amjad** — Associate Professor & HOD, Water Resources Engineering and Management, NUST
+- **Dr. Imran Ullah** — Associate Professor, National University of Sciences and Technology
 
 📎 **All recommendation letters:** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
 
@@ -181,7 +200,24 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 📧 **Email:** mateebali.be101mce@student.nust.edu.pk
 📱 **Phone:** +92 334 877 5983
 💼 **LinkedIn:** [PASTE-YOUR-LINKEDIN-LINK-HERE](PASTE-YOUR-LINKEDIN-LINK-HERE)
+💻 **GitHub:** [github.com/ateebali701](https://github.com/ateebali701)
 📄 **CV:** [View / Download CV](PASTE-CV-LINK-HERE)
+
+---
+
+## 🤝 Research Collaboration
+
+I am interested in research opportunities, internships, and collaborations related to:
+
+- Hydrology
+- Water Resources Engineering
+- GIS
+- Remote Sensing
+- Environmental Modeling
+- Geospatial Data Science
+- Machine Learning applications in Civil and Environmental Engineering
+
+Please feel free to contact me through LinkedIn or email.
 
 ---
 
