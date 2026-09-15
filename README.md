@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ateeb Ali</h1>
-<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine · Python</h3>
+<h3 align="center">Civil Engineering Undergraduate | Water Resources & Hydrological Modeling | GIS · Remote Sensing · Google Earth Engine</h3>
 
 <p align="center">
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
@@ -12,10 +12,10 @@
 
 ### 👋 About Me
 
-Dedicated and research-driven civil engineering enthusiast with prior exposure to real-world dam construction environments. Skilled in geospatial and computational tools, with a strong focus on watershed hydrology and land use/land cover change using Google Earth Engine, HEC-HMS, and statistical analysis. Committed to advancing innovative, data-driven water resources solutions and contributing effectively to engineering research teams through applied learning and analysis.
+Dedicated and research-driven civil engineering enthusiast with prior exposure to real-world dam construction environments. Skilled in QGIS, ArcGIS Pro, Google Earth Engine, Python, Remote Sensing, and HEC-HMS, with a strong focus on watershed hydrology and machine learning-based prediction. Committed to advancing innovative, data-driven water resources solutions and contributing effectively to engineering research teams through applied learning and analysis.
 
 **🎓 Education:** B.E. Civil Engineering, National University of Sciences and Technology (NUST), Islamabad — 2023 to Present | CGPA: 3.48/4.00 (until 7th semester)
-**Relevant Coursework:** River Engineering · Engineering Hydrology · Fluid Mechanics I & II · Irrigation Engineering · Soil Mechanics I & II · Engineering Geology · Structural Analysis I, II & III · Engineering Materials
+**Relevant Coursework:** River Engineering · Engineering Hydrology · Fluid Mechanics I & II · Irrigation Engineering · Soil Mechanics I & II · Engineering Geology · Geoinformatics and Slope Stability *(In Progress)*
 
 ---
 
@@ -36,27 +36,19 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 
 ## 🌊 Featured Research Project
 
-### Impact of Land Use/Land Cover Dynamics on Surface Runoff and Hydrological Response of the Soan River Watershed
+### Impact of Land Use/Land Cover Dynamics on the Hydrological Response of the Rawalpindi-Islamabad Watershed
 
 **Final Year Design Project (2026 – Present)** · *Advisor: Lt Colonel Ali Khan, National University of Sciences and Technology*
 
-This research examines how historical and predicted future land-use/land-cover changes in the Soan River Watershed affect surface runoff and overall hydrological response.
+This research examines how historical and predicted future land-use/land-cover changes in the Rawalpindi-Islamabad watershed affect surface runoff and overall hydrological response.
 
 **Research workflow:**
-Watershed delineation → Satellite imagery acquisition → Landsat preprocessing → Supervised LULC classification (Random Forest) → Accuracy assessment → Change detection → Area/transition statistics → Driving-factor preparation → Future LULC prediction (ANN + CA-Markov) → Hydrological modeling → Surface runoff assessment
+Watershed delineation → Satellite imagery acquisition → Landsat preprocessing → Supervised LULC classification (Waterbody, Built-up, Vegetation, Barren land) → Accuracy assessment → Change detection → Future LULC prediction using machine learning-based transition modeling → Hydrological modeling → Surface runoff and peak flow comparison
 
 **LULC study years:** 2000 · 2008 · 2016 · 2024
 **Future prediction years:** 2032 · 2040 · 2048
 
-| LULC Class | Code |
-|---|---:|
-| Water | 0 |
-| Built-up | 1 |
-| Vegetation | 2 |
-| Bare Land | 3 |
-
-**Driving factors:** Elevation · Slope · Distance from Roads · Distance from Water · Distance from Built-up Areas
-**Tools & technologies:** Google Earth Engine · QGIS · Landsat 5/8/9 · Random Forest · MOLUSCE · ANN · Cellular Automata · CA-Markov
+**Tools & technologies:** Google Earth Engine · Remote Sensing · Machine Learning-based Transition Modeling · Hydrological Modeling
 
 📎 **Proof of work:** [View Full Project Files / Report](PASTE-ONE-DRIVE-LINK-HERE)
 
@@ -82,29 +74,38 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 
 ## 🎓 Academic Projects
 
-| Project | Course | Semester |
-|---|---|---|
-| Streamflow Measurement, Cross-Sectional Discharge Analysis, and Channel Control Assessment for Flood Risk Management – Soan River | River Engineering (CE-462) | Spring 2026 |
-| Watershed Drainage Pattern and River Morphology Analysis Using Strahler's Bifurcation Method for Regional Flood Risk Assessment | River Engineering (CE-462) | Spring 2026 |
-| Irrigation Scheduling and Gross Irrigation Requirement (GIR) Analysis for Crop Water Requirement Comparison Using CLIMWAT/CROPWAT – Talagang, Punjab | Irrigation Engineering (CE-463) | Spring 2026 |
-| Statistical and Hydrological Analysis of 116-Year Rainfall Data for Seasonality and Trend Assessment in Pakistan | Engineering Hydrology (CE-358) | Fall 2025 |
-| Multi-Sub-Basin Hydrological Modeling and Calibration Using HEC-HMS for Watershed Flow Response Assessment | Engineering Hydrology (CE-358) | Fall 2025 |
-| Single-Event Rainfall-Runoff Simulation and Hydrograph Generation Using HEC-HMS (SCS Curve Number Method) | Engineering Hydrology (CE-358) | Fall 2025 |
-| MATLAB-Based Symbolic Computation of Differential Equations, Integrals, Derivatives, and Limits | MATH-355 | Fall 2025 |
-| Python-Based Data Retrieval Program for Location and Reservoir Area of Major Pakistani Dams | Summer Python Course | Summer 2025 |
-| Open Channel Hydraulic Analysis of Flow Regimes and Manning's Roughness Estimation for Trapezoidal and Compound Channels | Fluid Mechanics-II (CE-252) | Spring 2025 |
-| Topographic Mapping, Traversing, and Contouring for Road Alignment Design Using Total Station and GPS — *Syndicate Leader* | Engineering Surveying (CE-777) | Spring 2025 |
-| Inventory, Sales, and Billing Management Desktop Application Development Using C# | Fundamentals of Programming (CE-777) | Spring 2024 |
+- **Streamflow Measurement, Cross-Sectional Discharge Analysis, and Channel Control Assessment for Flood Risk Management – Soan River** — River Engineering (CE-462), Spring 2026
+- **Watershed Drainage Pattern and River Morphology Analysis Using Strahler's Bifurcation Method for Regional Flood Risk Assessment** — River Engineering (CE-462), Spring 2026
+- **Irrigation Scheduling and Gross Irrigation Requirement (GIR) Analysis for Crop Water Requirement Comparison Using CLIMWAT/CROPWAT – Talagang, Punjab** — Irrigation Engineering (CE-463), Spring 2026
+- **Statistical and Hydrological Analysis of 116-Year Rainfall Data for Seasonality and Trend Assessment in Pakistan** — Engineering Hydrology (CE-358), Fall 2025
+- **Multi-Sub-Basin Hydrological Modeling and Calibration Using HEC-HMS for Watershed Flow Response Assessment** — Engineering Hydrology (CE-358), Fall 2025
+- **Single-Event Rainfall-Runoff Simulation and Hydrograph Generation Using HEC-HMS (SCS Curve Number Method)** — Engineering Hydrology (CE-358), Fall 2025
+- **Open Channel Hydraulic Analysis of Flow Regimes and Manning's Roughness Estimation for Trapezoidal and Compound Channels** — Fluid Mechanics-II (CE-252), Spring 2025
+- **Topographic Mapping, Traversing, and Contouring for Road Alignment Design Using Total Station and GPS** *(Syndicate Leader)* — Engineering Surveying (CE-286), Spring 2025
+- **MATLAB-Based Symbolic Computation of Differential Equations, Integrals, Derivatives, and Limits** — Numerical Methods (MATH-355), Fall 2024
+
+<!-- Add any further academic projects below in the same format:
+- **Project Title** — Course (Code), Semester
+-->
 
 📎 **All project files / reports:** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
-*(Add any further academic projects not listed above directly into this same Drive folder — no need for a separate link per project.)*
+
+---
+
+## 🧪 Laboratory Experience
+
+- **Engineering Hydrology** — Groundwater Flow, Hydraulic Gradient, Aquifer Analysis, *Fall 2025*
+- **Fluid Mechanics-II** — Flow Regimes, Hydraulic Jumps, Flume, Unsteady Flow, Data Analysis, *Spring 2025*
+- **Soil Mechanics-II** — Shear Strength Parameters, Bearing Capacity, Consolidation Settlement, Geotechnical Testing, *Spring 2025*
+- **Fluid Mechanics-I** — Hydrostatic Pressure, Buoyancy and Stability, Impact of Jets, Discharge Coefficients (Orifice & Notch), *Fall 2024*
+- **Soil Mechanics-I** — Ground Water Flow Project, *Fall 2024*
 
 ---
 
 ## 🏗️ Industrial Experience
 
 ### Internee Engineer — Diamer Basha Dam Project *(Jun 2026 – Jul 2026)*
-*POWERCHINA – FWO Joint Venture (JV), Diamer, Pakistan*
+*POWERCHINA – FWO Joint Venture (JV), Chilas, Gilgit-Baltistan, Pakistan*
 - Analyzed excavation at the dam body, power intake, and downstream wing sections.
 - Participated in blast drilling and charging using 38–90mm holes with millisecond delay detonation sequencing.
 - Studied rock support design: 210 kN rock bolts, tendons, wire mesh, and shotcrete across 5 RMR rock classes.
@@ -112,12 +113,12 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 - Assisted in laboratory quality control testing including grout flow, compressive strength, and pull-out tests.
 
 ### Internee Engineer — Dhadhocha Dam Project *(Jun 2025 – Aug 2025)*
-*Frontier Works Organization (FWO), Pakistan*
+*Frontier Works Organization (FWO), Rawalpindi, Pakistan*
 - Studied a 123 ft zoned earth-fill dam with core, filter, and shell zones for seepage control.
 - Analyzed a 60,000 acre-ft reservoir storage (45,000 live) across a 129 sq mile catchment.
 - Reviewed a 250 ft spillway (42,000 cusec) designed for a 1,000-year, 77,950 cusec flood.
-- Used Total Station and GNSS/GPS for topographic mapping and catchment delineation.
-- Learned dam safety monitoring: seepage, pore pressure, settlement, and embankment condition.
+- Studied dam components (coffer dam, inlet/outlet, spillway, bridge) designed for 35 MGD supply capacity.
+- Learned dam safety monitoring: seepage, pore pressure, settlement, embankment condition.
 
 📎 **Internship completion certificates (both):** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
 
@@ -125,6 +126,7 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 
 ## 🤝 Leadership & Volunteer Experience
 
+- **Active Student Member**, American Society of Civil Engineers (ASCE) *(Sep 2025 – Present)*
 - **Course Prefect**, CED-101, Military College of Engineering, NUST *(Sep 2025 – May 2026)* — Acted as the main point of contact between course mates and faculty, relaying updates and resolving exam schedules and coursework deadlines.
 - **Academic Prefect**, CED-101 (PCs), Military College of Engineering, NUST *(2026)*
 - **Secretary**, ASCE Bridge Design Competition 2025, MCE, NUST *(Feb 2025)* — Designed and tested a structural bridge model, applying core structural analysis principles under competition constraints.
@@ -139,7 +141,7 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 
 ## 🛠️ Technical Skills
 
-**Software:** QGIS · ArcGIS Pro · HEC-HMS · CROPWAT · CLIMWAT · MATLAB
+**Software:** QGIS · ArcGIS Pro · HEC-HMS · CROPWAT · CLIMWAT · MATLAB · ETABS
 **Programming Languages:** Python · JavaScript · C#
 **CAD Software:** AutoCAD · BIM Revit
 **Project Management Software:** Oracle Primavera P6 · Microsoft Office (Word, Excel, PowerPoint)
@@ -151,6 +153,7 @@ Watershed delineation → Satellite imagery acquisition → Landsat preprocessin
 - Remote Sensing Image Acquisition, Analysis and Applications — UNSW Sydney & IEEE Geoscience and Remote Sensing Society (Coursera), *Sep 2026*
 - Introduction to GIS Mapping — University of Toronto (Coursera), *Aug 2026*
 - AutoCAD — Digiskills.pk (DSTP3.0-Batch-02), *Jul 2026*
+- CPD Workshop on Construction Estimation using PlanSwift and BlueBeam — *Apr 2026*
 - Supervised Machine Learning: Regression and Classification — DeepLearning.AI / Stanford (Coursera), *Aug 2025*
 - Python Programming — NUST SEECS (On Campus), *Jul 2025*
 - Planning and Control with Oracle Primavera PPM Professional — packt (Coursera), *Jul 2025*
