@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Dedicated and research-driven civil engineering enthusiast with prior exposure to real-world dam construction environments. Skilled in QGIS, ArcGIS Pro, Google Earth Engine, Python, Remote Sensing, and HEC-HMS, with a strong focus on watershed hydrology and machine learning-based prediction. Committed to advancing innovative, data-driven water resources solutions and contributing effectively to engineering research teams through applied learning and analysis.
+I'm a final-year Civil Engineering student with a genuine curiosity for how water moves through changing landscapes — and how that change puts people and infrastructure at risk. I got my first taste of that reality on-site at two dam projects, and it's shaped how I now approach research: grounded in field understanding, but built on data. Day to day, that means working with QGIS, ArcGIS Pro, Google Earth Engine, Python, remote sensing, and HEC-HMS to study watershed hydrology and build machine learning-based predictions of how land use will change — and what that means for flood risk down the line.
 
 **🎓 Education:** B.E. Civil Engineering, National University of Sciences and Technology (NUST), Islamabad — 2023 to Present | CGPA: 3.48/4.00 (until 7th semester)
 **Relevant Coursework:** River Engineering · Engineering Hydrology · Fluid Mechanics I & II · Irrigation Engineering · Soil Mechanics I & II · Engineering Geology · Geoinformatics and Slope Stability *(In Progress)*
@@ -21,16 +21,13 @@ Dedicated and research-driven civil engineering enthusiast with prior exposure t
 
 ## 🔬 Research Interests
 
-- Hydrological Modeling
-- Surface Runoff Analysis
-- Watershed Modeling
-- GIS and Spatial Analysis
-- Remote Sensing
-- Land Use / Land Cover Change
-- Environmental Modeling
-- Geospatial Data Science
-- Machine Learning for Earth Observation
-- Climate and Water Resources Analysis
+My work so far sits at the intersection of hydrology, GIS, and machine learning — here's where I'd like to keep growing:
+
+- Watershed Hydrology & Hydrological Modeling
+- LULC Change Detection & Prediction (Remote Sensing / Machine Learning)
+- GIS & Remote Sensing in Water Resources
+- Flood Risk Modeling
+- Dam Safety & Geotechnical Engineering
 
 ---
 
@@ -56,7 +53,8 @@ This research examines how historical and predicted future land-use/land-cover (
 - Prediction pipeline is also being cross-checked with an equivalent Random Forest + Markov + Cellular Automata implementation directly in Google Earth Engine (JavaScript) for consistency.
 
 **Hydrological Modeling**
-- Present-day and predicted future LULC scenarios compared to analyze changes in peak flow, surface runoff, and overall hydrological response of the watershed.
+- Present-day and predicted future LULC scenarios will be compared to analyze changes in peak flow, surface runoff, and overall hydrological response of the watershed, with a particular focus on how LULC change is driving urban flooding risk.
+- This phase is currently being scoped between a physically-based approach (a SWAT-based hydrological model) and an AI-based modeling approach — a decision still being finalized.
 
 📎 **Proof of work:** [View Full Project Files / Report](PASTE-ONE-DRIVE-LINK-HERE)
 
@@ -101,6 +99,8 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 - **Open Channel Hydraulic Analysis of Flow Regimes and Manning's Roughness Estimation for Trapezoidal and Compound Channels** — Fluid Mechanics-II (CE-252), Spring 2025
 - **Topographic Mapping, Traversing, and Contouring for Road Alignment Design Using Total Station and GPS** *(Syndicate Leader)* — Engineering Surveying (CE-286), Spring 2025
 - **MATLAB-Based Symbolic Computation of Differential Equations, Integrals, Derivatives, and Limits** — Numerical Methods (MATH-355), Fall 2024
+- **REVIT Project** — [Course Name] ([Course Code]), [Semester]
+- **AutoCAD Term Project** — [Course Name] ([Course Code]), [Semester]
 
 <!-- Add any further academic projects below in the same format:
 - **Project Title** — Course (Code), Semester
