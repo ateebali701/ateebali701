@@ -15,6 +15,7 @@
 I'm a final-year Civil Engineering student with a genuine curiosity for how water moves through changing landscapes — and how that change puts people and infrastructure at risk. I got my first taste of that reality on-site at two dam projects, and it's shaped how I now approach research: grounded in field understanding, but built on data. Day to day, that means working with QGIS, ArcGIS Pro, Google Earth Engine, Python, remote sensing, and HEC-HMS to study watershed hydrology and build machine learning-based predictions of how land use will change — and what that means for flood risk down the line.
 
 **🎓 Education:** B.E. Civil Engineering, National University of Sciences and Technology (NUST), Islamabad — 2023 to Present | CGPA: 3.48/4.00 (until 7th semester)
+
 **Relevant Coursework:** River Engineering · Engineering Hydrology · Fluid Mechanics I & II · Irrigation Engineering · Soil Mechanics I & II · Engineering Geology · Geoinformatics and Slope Stability *(In Progress)*
 
 ---
@@ -56,7 +57,7 @@ This research examines how historical and predicted future land-use/land-cover (
 - Present-day and predicted future LULC scenarios will be compared to analyze changes in peak flow, surface runoff, and overall hydrological response of the watershed, with a particular focus on how LULC change is driving urban flooding risk.
 - This phase is currently being scoped between a physically-based approach (a SWAT-based hydrological model) and an AI-based modeling approach — a decision still being finalized.
 
-📎 **Proof of work:** [View Full Project Files / Report](PASTE-ONE-DRIVE-LINK-HERE)
+📎 **Proof of work:** [View Full Project Files / Report](https://drive.google.com/drive/folders/1Ab_ao3OUeRvb4OjyvaUvwKNY5_PSdqbH?usp=drive_link)
 
 ---
 
@@ -84,7 +85,7 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 - Coded S-Curve and superposition methods to convert and combine unit hydrographs in Python.
 - Generated total surface runoff hydrographs by convolving unit hydrographs with rainfall excess, using four Python modules (Horton's Infiltration, Surface Runoff Hydrograph via convolution, S-Curve Method, Superposition Method) built and run in Google Colab, with data drawn from own Engineering Hydrology coursework.
 
-📎 **Proof of work:** [View Supporting Files / Notebooks](PASTE-ONE-DRIVE-LINK-HERE)
+📎 **Proof of work:** [View Supporting Files / Notebooks](https://docs.google.com/document/d/1IAyMaB3kZlhXPh7l4h5c9pJfIx7-RHzN/edit?usp=drive_link&ouid=102429782168417322895&rtpof=true&sd=true)
 
 ---
 
@@ -138,7 +139,7 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 - Studied dam components (coffer dam, inlet/outlet, spillway, bridge) designed for 35 MGD supply capacity.
 - Learned dam safety monitoring: seepage, pore pressure, settlement, embankment condition.
 
-📎 **Internship completion certificates (both):** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
+📎 **Internship completion certificates (both):** [View Folder](https://drive.google.com/drive/folders/1wzvsDwHxsf7qxCVxphKWjlzKQJxsR04L?usp=drive_link)
 
 ---
 
@@ -180,7 +181,7 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 - BIM Fundamentals for Engineers — National Taiwan University (Coursera), *May 2025*
 - AutoCAD 2023 Masterclass – Produce Amazing Site Plans — packt (Coursera), *May 2025*
 
-📎 **All certificates:** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
+📎 **All certificates:** [View Folder](https://drive.google.com/drive/folders/1uPJQYtPEV4CaNRFtHtlxzfDghSooNUcf?usp=drive_link)
 
 ---
 
@@ -190,7 +191,7 @@ A systematic literature review (2013–2026, global scope) synthesizing how remo
 - **Dr. Mohammad Amjad** — Associate Professor & HOD, Water Resources Engineering and Management, NUST
 - **Dr. Imran Ullah** — Associate Professor, National University of Sciences and Technology
 
-📎 **All recommendation letters:** [View Folder](PASTE-ONE-DRIVE-LINK-HERE)
+📎 **All recommendation letters:** [View Folder](https://drive.google.com/drive/folders/1gwvXA4yAVBf_UtA4VOR6P4Y9U6SW7PH2?usp=drive_link)
 
 ---
 
