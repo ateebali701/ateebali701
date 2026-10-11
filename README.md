@@ -38,13 +38,6 @@ LULC Change & Flash Flood Response · LULC Prediction (ML) · Watershed Hydrolog
 
 ---
 
-### Publications
-
-**Land Use/Land Cover Change and Watershed Hydrology: A Systematic Review of Remote Sensing, GIS, and AI Approaches with Implications for Hydrological Risks to Dams** — manuscript in preparation.
-📎 [View draft / literature matrix](PASTE-ONE-DRIVE-LINK-HERE)
-
----
-
 ### Research Experience
 
 **Research Assistant — Senior's FYDP (Flood Modeling)**, NUST Risalpur · *Fall 2025*
