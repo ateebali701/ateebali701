@@ -47,7 +47,7 @@ LULC Change & Flash Flood Response · LULC Prediction (ML) · Watershed Hydrolog
 **Hydrograph Analysis and Infiltration Modeling Using Python** — Self-directed · *Fall 2025*
 - Modeled Horton's infiltration curve and generated runoff hydrographs by convolving unit hydrographs with rainfall excess, using the S-Curve and superposition methods.
 
-📎 [Project report / notebooks](https://docs.google.com/document/d/1IAyMaB3kZlhXPh7l4h5c9pJfIx7-RHzN/edit?usp=drive_link&ouid=102429782168417322895&rtpof=true&sd=true)
+📎 [Project report](https://docs.google.com/document/d/1IAyMaB3kZlhXPh7l4h5c9pJfIx7-RHzN/edit?usp=drive_link&ouid=102429782168417322895&rtpof=true&sd=true)
 
 ---
 
