@@ -160,7 +160,7 @@ Engineering Hydrology (Groundwater Flow, Aquifer Analysis) · Fluid Mechanics-II
 
 ### References
 
-- **Lt Col Muhammad Ali Khan** — FYDP Supervisor, NUST
+- **Lt Colonel Muhammad Ali Khan** — FYDP Supervisor, NUST
 - **Dr. Muhammad Amjad** — Associate Professor & HOD, Water Resources Engineering and Management, NUST
 - **Dr. Imran Ullah** — Associate Professor, NUST
 
