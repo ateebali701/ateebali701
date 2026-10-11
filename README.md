@@ -34,7 +34,7 @@ LULC Change & Flash Flood Response · LULC Prediction (ML) · Watershed Hydrolog
 - Built a Random Forest–Cellular Automata (RF-CA) model in Python to predict LULC for 2032, 2040, 2048, and 2056, validated against the classified 2020 and 2024 maps.
 - Now comparing present-day and predicted runoff through hydrological modeling to see how peak flow and surface runoff are expected to change.
 
-📎 [Full project files / report](https://drive.google.com/drive/folders/1Ab_ao3OUeRvb4OjyvaUvwKNY5_PSdqbH?usp=drive_link)
+📎 [Full project files / report](https://drive.google.com/file/d/1r2P3N8RbGVPAYlsuaXLBJmcCsYcdRWgL/view?usp=drive_link)
 
 ---
 
@@ -119,7 +119,7 @@ Engineering Hydrology (Groundwater Flow, Aquifer Analysis) · Fluid Mechanics-II
 - Analyzed a 60,000 acre-ft reservoir and reviewed spillway design for a 1,000-year, 77,950 cusec flood.
 - Learned dam safety monitoring — seepage, pore pressure, settlement, embankment condition.
 
-📎 [Internship reports](https://drive.google.com/drive/folders/1wzvsDwHxsf7qxCVxphKWjlzKQJxsR04L?usp=drive_link)
+📎 [Internship reports](https://drive.google.com/file/d/1D0db8jt8YXZAwm_D_N5sPqd3E1zOhKAe/view?usp=drive_link)
 
 ---
 
@@ -133,7 +133,7 @@ Engineering Hydrology (Groundwater Flow, Aquifer Analysis) · Fluid Mechanics-II
 - Secretary, Research and Innovation Society *(Spring 2024)*
 - Class Representative, Civil Engineering Batch, MCE NUST *(Fall 2023 – Spring 2024)*
 
-📎 [Supporting certificates](PASTE-ONE-DRIVE-LINK-HERE)
+📎 [Certificates](https://drive.google.com/file/d/1E_3UpWpDa-ibHDFawF29zh965RkqrtIj/view?usp=drive_link)
 
 ---
 
@@ -154,7 +154,7 @@ Engineering Hydrology (Groundwater Flow, Aquifer Analysis) · Fluid Mechanics-II
 - Python Programming — NUST SEECS, *Jul 2025*
 - Planning & Control with Oracle Primavera PPM Professional — Packt (Coursera), *Jul 2025*
 
-📎 [All certificates](https://drive.google.com/drive/folders/1uPJQYtPEV4CaNRFtHtlxzfDghSooNUcf?usp=drive_link)
+📎 [All certificates](https://drive.google.com/file/d/10iSfTgEIhXfW-W9bU2N79556X6MujvBG/view?usp=drive_link)
 
 ---
 
