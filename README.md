@@ -34,14 +34,7 @@ LULC Change & Flash Flood Response · LULC Prediction (ML) · Watershed Hydrolog
 - Built a Random Forest–Cellular Automata (RF-CA) model in Python to predict LULC for 2032, 2040, 2048, and 2056, validated against the classified 2020 and 2024 maps.
 - Now comparing present-day and predicted runoff through hydrological modeling to see how peak flow and surface runoff are expected to change.
 
-📎 [Full project files / report](https://drive.google.com/drive/folders/1Ab_ao3OUeRvb4OjyvaUvwKNY5_PSdqbH?usp=drive_link)
-
----
-
-### Publications
-
-**Land Use/Land Cover Change and Watershed Hydrology: A Systematic Review of Remote Sensing, GIS, and AI Approaches with Implications for Hydrological Risks to Dams** — manuscript in preparation.
-📎 [View draft / literature matrix](PASTE-ONE-DRIVE-LINK-HERE)
+📎 [FYDP Proposal Defence](https://drive.google.com/file/d/1r2P3N8RbGVPAYlsuaXLBJmcCsYcdRWgL/view?usp=drive_link)
 
 ---
 
