@@ -5,7 +5,7 @@
   📧 mateebali.be101mce@student.nust.edu.pk &nbsp;|&nbsp;
   📱 +92 334 877 5983 &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-ateeb-ali">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="PASTE-YOUR-CV-DRIVE-LINK-HERE">CV</a>
+  <a href="https://drive.google.com/file/d/109u6nkB_xj85Xm6UDNbwMU2FkW4BieQS/view?usp=drive_link">CV</a>
 </p>
 
 ---
