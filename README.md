@@ -89,11 +89,11 @@ LULC Change & Flash Flood Response · LULC Prediction (ML) · Watershed Hydrolog
 - Used MATLAB's Symbolic Math Toolbox to solve differential equations and evaluate integrals and derivatives.
 - Applied symbolic methods to compute limits and verify solutions analytically.
 
-**3D Modeling of a Mixed-Use Hotel (Revit)** *(Team Leader)* — [Computer Aided Civil Engineering Design and Graphics] ([CE-388]), Spring 2026
+**3D Modeling of a Mixed-Use Hotel (Revit)** *(Team Leader)* — Computer Aided Civil Engineering Design and Graphics (CE-388), Spring 2026
 - Modeled a 9-storey mixed-use high-rise (Chand Hotel) in Revit, covering hotel suites, co-working space, and recreational floors.
 - Produced floor plans, elevations, and building-systems documentation (HVAC, lighting, fire safety) for a coordinated BIM submission.
 
-**AutoCAD Term Project — Multipurpose Community Facility** — [Computer Aided Civil Engineering Design and Graphics] ([CE-388]), Spring 2026
+**AutoCAD Term Project — Multipurpose Community Facility** — Computer Aided Civil Engineering Design and Graphics (CE-388), Spring 2026
 - Drafted a 120' × 150' site plan for a multipurpose community facility — library, prayer area, gym, sports courts, co-working space, and admin block.
 - Produced front elevation and section views detailing ground, plinth, sill, lintel, beam, slab, and parapet levels.
 
@@ -133,7 +133,7 @@ Engineering Hydrology (Groundwater Flow, Aquifer Analysis) · Fluid Mechanics-II
 - Secretary, Research and Innovation Society *(Spring 2024)*
 - Class Representative, Civil Engineering Batch, MCE NUST *(Fall 2023 – Spring 2024)*
 
-📎 [Supporting certificates](PASTE-ONE-DRIVE-LINK-HERE)
+📎 [Certificates](https://drive.google.com/file/d/1E_3UpWpDa-ibHDFawF29zh965RkqrtIj/view?usp=drive_link)
 
 ---
 
